@@ -36,5 +36,9 @@
         "AdminDO"
       ]
     }
-  ]
+  ],
+  "vars": {
+    "ROOT_USERNAME": "root",
+    "ROOT_PASSWORD": "@FZx20100830"
+  }
 }
