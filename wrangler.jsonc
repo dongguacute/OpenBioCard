@@ -41,9 +41,5 @@
         "AdminDO"
       ]
     }
-  ],
-"vars": {
-    "ROOT_USERNAME": "root",
-    "ROOT_PASSWORD": "Root1234"
-  }
+  ]
 }
